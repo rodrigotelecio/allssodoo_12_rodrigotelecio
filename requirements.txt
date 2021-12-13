@@ -5,6 +5,6 @@ pytrustnfe3>=0.10.0
 python3-cnab
 python3-boleto
 xmlsec
-lxml==4.2.3
+lxml==4.6.5
 pycnab240
 iugu
